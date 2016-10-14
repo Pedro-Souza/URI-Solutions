@@ -6,7 +6,6 @@ int main() {
     scanf("%i", &X);
     scanf("%f", &Y);
     R = X / Y;
-    printf("%.3f km/l\n" R);
- 
+    printf("%.3f km/l\n", R);
     return 0;
 }
